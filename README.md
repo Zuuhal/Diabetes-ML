@@ -1,1 +1,2 @@
-# Diabetes-ML
+# Diabetes-ML-KNN
+This project aims to predict diabetes in individuals using the K-Nearest Neighbors (KNN) algorithm. The dataset used in this project contains various health-related features such as pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, body mass index (BMI), diabetes pedigree function, and age. Pre-processing steps such as PCA and normalization were implemented and tested.
